@@ -1,6 +1,6 @@
 # Supermarket Markov Chains Monte Carlo Simulation 
 The Project runs a Monte Carlo simulation to predict the customers' behavior in a hypothetical supermarket with below layout:
-
+Contributors: [Francesco Mari](https://github.com/fra-mari) and [Laura Bertolini](https://github.com/Rellino)
 
 ![Supermarket layout](supermarkt.png)
 
